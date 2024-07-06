@@ -3,13 +3,13 @@
 Hey everyone! 👋 I'm excited to share a comprehensive guide on JavaScript functions, covering the basics to more advanced concepts, along with a set of interview questions to help you prepare for your next job opportunity.
 
 Contents:
-JavaScript Functions:
-Basics of Functions
-Arrow Functions
-Higher-Order Functions
-Callback Functions
-Function Expressions vs. Declarations
-Closures
+JavaScript Functions:- 
+Basics of Functions,
+Arrow Functions,
+Higher-Order Functions,
+Callback Functions,
+Function Expressions vs. Declarations,
+Closures. 
 
 Interview Questions:
 Commonly asked interview questions related to JavaScript functions
