@@ -1,4 +1,5 @@
-🚀 JavaScript Functions: Essentials and Interview Questions
+🚀 JavaScript Functions: Essentials and Interview Questions-
+
 Hey everyone! 👋 I'm excited to share a comprehensive guide on JavaScript functions, covering the basics to more advanced concepts, along with a set of interview questions to help you prepare for your next job opportunity.
 
 Contents:
