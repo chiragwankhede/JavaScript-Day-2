@@ -1,4 +1,4 @@
-🚀 JavaScript Functions: Essentials and Interview Questions-
+🚀 JavaScript Functions: Essentials and Interview Questions
 
 Hey everyone! 👋 I'm excited to share a comprehensive guide on JavaScript functions, covering the basics to more advanced concepts, along with a set of interview questions to help you prepare for your next job opportunity.
 
@@ -10,9 +10,11 @@ Higher-Order Functions
 Callback Functions
 Function Expressions vs. Declarations
 Closures
+
 Interview Questions:
 Commonly asked interview questions related to JavaScript functions
 Code snippets and explanations
+
 Why This Matters:
 Functions are the building blocks of any JavaScript application. Understanding how to effectively use them is key to writing clean, maintainable code. This guide is designed to help you solidify your knowledge and be prepared for technical interviews.
 
